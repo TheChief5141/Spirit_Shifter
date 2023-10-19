@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mpspo/UnrealProj/COMP/Spirit_Shifter/Spirit_Shifter/Content/BluePrints/AI/AITasks/BTTask_ChasePlayer.uasset",
+				"C:/Users/mpspo/UnrealProj/COMP/Spirit_Shifter/Spirit_Shifter/Content/BluePrints/AI/BT_AI.uasset",
+				"C:/Users/mpspo/UnrealProj/COMP/Spirit_Shifter/Spirit_Shifter/Content/BluePrints/AI/BBD_AI.uasset"
+			]
+		}
+	]
+}
