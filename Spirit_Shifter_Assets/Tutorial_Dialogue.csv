@@ -1,0 +1,16 @@
+---,Name,Dialogue_Text,IsEnd?
+Tutorial_1_1,Channeler’s Inner Voice,Get up… Get up…. GET UP!,FALSE
+Tutorial_1_2,Channeler’s Inner Voice,You need to save them… they don’t deserve this… ,FALSE
+Tutorial_1_3,Channeler,"I’m tired of this fight, I’m too tired to move",FALSE
+Tutorial_1_4,Channeler’s Inner Voice,You know what’s right… why won’t you do what’s right?,FALSE
+Tutorial_1_5,Channeler,I can’t face them… all my friends… my family…. ,FALSE
+Tutorial_1_6,Channeler’s Inner Voice,"Don’t face them, fight for them. Stand _____",TRUE
+Tutorial_1_7,Channeler’s Inner Voice, Move…. We must move…,TRUE
+Tutorial_1_8,Channeler’s Inner Voice,"See, even the goop has entered your mind.",FALSE
+Tutorial_1_9,Channeler,"It's everywhere now, there's no way i could miss it.",FALSE
+Tutorial_1_10,Channeler’s Inner Voice,Cross it… it's time we dealt with this,FALSE
+Tutorial_1_11,Channeler,…sure,TRUE
+Tutorial_1_12,Channeler’s Inner Voice, I have been waiting for this day…,FALSE
+Tutorial_1_13,Channeler,I don’t know if I have the strength left.,FALSE
+Tutorial_1_14,Channeler’s Inner Voice,I know you do. Avoiding them has left us weak but we can recover. We must bounce back. We HAVE to ,FALSE
+Tutorial_1_15,Channeler,*sigh* ,TRUE
